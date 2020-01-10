@@ -1,0 +1,4 @@
+[submodule "hellogitworld"]
+	path = hellogitworld
+	url = git@github.com:githubtraining/hellogitworld.git
+	branch = master
